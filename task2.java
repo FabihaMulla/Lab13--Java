@@ -6,10 +6,10 @@ public class task2 {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter First Number: ");
+        System.out.print("Enter 1st Number: ");
         int firstNumber = input.nextInt();
 
-        System.out.print("Enter Second Number: ");
+        System.out.print("Enter 2nd Number: ");
         int secondNumber = input.nextInt();
 
         int sum = firstNumber + secondNumber;
